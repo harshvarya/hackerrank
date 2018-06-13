@@ -2,7 +2,7 @@ package uc.longestuniquesubstring;
 
 import java.util.Arrays;
 
-public class Solution {
+public class UniqueCharactersLongestSubstring {
 
 	static final int NO_OF_CHARS = 256;
 
